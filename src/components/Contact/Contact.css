@@ -1,0 +1,55 @@
+div.div54 {
+
+    text-align: center;
+
+    background-image: url("./image9.jpg");
+    background-size: cover;
+
+    height: 100%;
+    overflow: auto;
+    color: rgb(153, 198, 237);
+    margin-bottom: 0;
+    padding-bottom: 0;
+    text-shadow: 3px 5px 5px #1ca1bc;
+    background-attachment: fixed;
+    padding-block-start: 0.1cm;
+    padding-block-end: 1cm;
+    padding-left: 2cm;
+    padding-right: 2cm;
+    padding-top: 0.5cm;
+    margin-top: 0.57cm;
+    }
+
+
+div.divcontact {
+    text-align: center;
+    /* padding-right: 3.5cm; */
+    background-image: url("./image9.jpg");
+    background-size: cover;
+
+    height: 36%;
+    text-shadow: 3px 5px 5px #1ca1bc;
+
+    /* overflow: auto; */
+    color: rgb(153, 198, 237);
+    margin-bottom: 0;
+    padding-bottom: 0;
+
+    /* border-style:inset; */
+    box-shadow: 0 4px 8px 0 rgba(11, 117, 199, 0.769), 0 6px 20px 0 rgba(160, 160, 188, 0.696);
+    border-color: rgb(153, 198, 237);
+
+    padding-block-start: 0.1cm;
+    padding-block-end: cm;
+    right: 0.5cm;
+
+    padding-left: 0.5cm;
+    padding-right: 0.5cm;
+    top: 2.5cm;
+}
+
+.bird {
+
+    padding-left: 2cm,
+
+}

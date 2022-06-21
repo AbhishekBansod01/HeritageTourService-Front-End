@@ -1,0 +1,47 @@
+div.textst {
+  text-align: center;
+  padding-left: 5cm;
+}
+
+div.imag2 {
+  padding-right: 2cm;
+  text-align: start;
+  padding-block-start: 5cm;
+}
+
+.card {
+  transition: 0.3s;
+  width: fit-content;
+  margin-bottom: 2cm;
+  padding-top: 1cm;
+  background-color: rgb(255, 255, 255);
+  padding-left: 0cm;
+  border-color: rgb(135, 132, 132);
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgb(255, 255, 255);
+}
+
+img {
+  border-radius: 5px 5px 0 0;
+}
+
+.card.container {
+
+  margin-left: 0cm;
+  padding-left: 0cm;
+
+
+
+}
+
+.sitediv {
+  background-image: url("./img98.png");
+  padding-bottom: 5cm;
+  padding-top: 0.5cm;
+  margin-top: 0.57cm;
+  background-image: url("./img98.png");
+  background-size: cover;
+  background-attachment: fixed;
+}
